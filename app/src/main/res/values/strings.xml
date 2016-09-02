@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lottk</string>
+    <string name="app_misconfigured">App misconfigured.</string>
+    <string name="client_reconnect_required">Client Reconnect Required!</string>
+    <string name="gamehelper_app_misconfigured">App misconfigured.</string>
+    <string name="gamehelper_license_failed">License Failed!</string>
+    <string name="gamehelper_sign_in_failed">Sign in failed!</string>
+    <string name="gamehelper_unknown_error">An unknown error  has occurred.</string>
+    <string name="internal_error">Internal Error!</string>
+    <string name="license_failed">License Failed!</string>
+    <string name="match_error_already_rematched">Match Error: Already Rematched!</string>
+    <string name="match_error_inactive_match">Match Error: Inactive Match!</string>
+    <string name="match_error_locally_modified">Match Error: Locally Modified!</string>
+    <string name="network_error_operation_failed">Network Error: Operation Failed!</string>
+    <string name="status_multiplayer_error_not_trusted_tester">Error: Not trusted tester</string>
+    <string name="sign_in_failed">Sign in Failed!</string>
+    <string name="signin_other_error">Sign in Error: Other</string>
+    <string name="unexpected_status">Unexpected Status!</string>
+</resources>
